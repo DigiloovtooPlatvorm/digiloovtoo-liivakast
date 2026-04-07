@@ -15,22 +15,24 @@ Pärast persoonade loomist tehakse kasutamise stsenaariumid.md ehk jutustused v�
 ## Stsenaarium 1
 
 ### Pealkiri
-Mari kontrollib oma järgmisi ülesandeid
+Liis muudab aastapäeva kodulehte
 
 ### Kes seda teeb?
-Mari, 8. klassi õpilane
+Liis
 
-### Mida ta tahab teha?
-Ta tahab näha, millised ülesanded on tema grupil teha ja mille eest tema vastutab.
+### Olukorra kirjeldus
+Liis on kooli aastapäeva ürituse korraldaja ning tegeleb ürituse planeerimisega. Tal on vaja koondada veebilehele kogu oluline info, mida osalejad vajavad, näiteks ajakava, tegevuste kirjeldused ja praktiline info.
+Ta lisab veebilehele ürituse põhiosad: aktuse, kontserdi, spordivõistluse, kunstinäituse ja banketi. Seejärel täpsustab ta iga tegevuse juures toimumise aega, kirjeldust ja vajadusel lisainfot.
+Lisaks lisab Liis registreerimisega seotud info, näiteks millised andmed tuleb osalejatel esitada ning kas mõne tegevuse eest tuleb tasuda. Ta kontrollib, et kogu info oleks selgelt esitatud ja loogiliselt jaotatud.
 
-### Kuidas see toimub?
-1. Mari avab projekti repositooriumi.
-2. Ta vaatab juhiseid ja ülesandeid.
-3. Ta leiab enda tööülesande.
-4. Ta saab aru, mida peab järgmisena tegema.
+### Kasutaja eesmärk
+Koondada ja esitada kogu üritusega seotud info veebilehel nii, et osalejad saaksid selle põhjal oma osalemist planeerida.
 
-### Mis on tulemus?
-Mari teab, mis on tema järgmine ülesanne ja saab tööga edasi minna.
+### Tegevuse käik
+Liis lisab ja korrigeerib veebilehel ürituse ajakava, tegevuste kirjeldusi ning registreerimisega seotud infot
+
+### Oodatav tulemus
+Veebilehel on olemas selge, korrektne ja ajakohane info, mida külastajad saavad kasutada ürituse mõistmiseks ja planeerimiseks.
 
 ---
 
@@ -39,31 +41,18 @@ Mari teab, mis on tema järgmine ülesanne ja saab tööga edasi minna.
 ### Pealkiri
 
 ### Kes seda teeb?
+Martin
 
-### Mida ta tahab teha?
+### Olukorra kirjeldus
+Martin kuuleb kooli aastapäeva üritusest sotsiaalmeedia kaudu ning avab seal oleva veebilehe lingi. Tal on kiire ning ta soovib lühikese ajaga aru saada, millal üritus toimub ja mida seal tehakse.
+Avalehel näeb ta ürituse kuupäeva ja lühikirjeldust. Seejärel liigub ta ajakava sektsiooni, kus on selgelt ja kronoloogilises järjekorras välja toodud kõik tegevused.
+Martin valib välja endale huvipakkuvad tegevused ning otsustab üritusel osaleda. Ta liigub registreerimisvormi juurde, täidab vajalikud andmed ning esitab vormi. Pärast seda saab ta e-mailile kinnituse.
 
-### Kuidas see toimub?
-1.
-2.
-3.
-4.
+### Kasutaja eesmärk
+Saada kiiresti ülevaade üritusest ning registreerida end osalemiseks.
 
-### Mis on tulemus?
+### Tegevuse käik
+Martin avab veebilehe, tutvub ajakava ja tegevustega, täidab registreerimisvormi ning esitab selle.
 
----
-
-## Stsenaarium 3
-
-### Pealkiri
-
-### Kes seda teeb?
-
-### Mida ta tahab teha?
-
-### Kuidas see toimub?
-1.
-2.
-3.
-4.
-
-### Mis on tulemus?
+### Oodatav tulemus
+Martin saab vajaliku info kiiresti kätte, registreerib end edukalt ning saab kinnituse oma osalemise kohta.
