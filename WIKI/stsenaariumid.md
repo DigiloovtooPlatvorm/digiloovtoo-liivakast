@@ -56,3 +56,26 @@ Martin avab veebilehe, tutvub ajakava ja tegevustega, täidab registreerimisvorm
 
 ### Oodatav tulemus
 Martin saab vajaliku info kiiresti kätte, registreerib end edukalt ning saab kinnituse oma osalemise kohta.
+
+---
+
+## Stsenaarium 3
+
+### Pealkiri
+
+### Kes seda teeb?
+Liis
+
+### Olukorra kirjeldus
+Ürituse lähenedes kasutab Liis veebilehte selleks, et kontrollida infot ja toetada korraldust. Ta vaatab üle ajakava ning veendub, et kõik tegevused on õigesti kirjas.
+Liis kasutab veebilehel olevat infot ka suhtlemisel teiste korraldajate ja osalejatega, jagades vajadusel linki, et inimesed leiaksid ise vastused oma küsimustele.
+Kuna registreerimine toimub veebilehe kaudu, on Liisil parem ülevaade osalejatest ning ta saab oma tegevusi vastavalt planeerida.
+
+### Kasutaja eesmärk
+Kasutada veebilehte ürituse korraldamise toetamiseks ja info jagamiseks.
+
+### Tegevuse käik
+Liis kontrollib veebilehel olevat infot, jagab seda teistele ning kasutab registreerimisandmeid korralduse planeerimisel.
+
+### Oodatav tulemus
+Ürituse korraldus on sujuvam, kuna info on koondatud ühte kohta ning osalejad leiavad vajalikud vastused iseseisvalt.
