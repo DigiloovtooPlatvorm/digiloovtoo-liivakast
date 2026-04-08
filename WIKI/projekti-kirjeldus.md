@@ -7,7 +7,7 @@ Markus Mägi, Linda Oja ja Kaisa Muiste
 ## Juhendaja
 Kati Lepp
 
-## projekti kirjeldus
+## Projekti kirjeldus
 Digiloovtööna luuakse veebileht, mis kajastab kooli aastapäeva olulisemat infot ning võimaldab osalejatel end üritusele registreerida. Veebilehe eesmärk on koondada kogu vajalik teave ühte kohta, et huvilised saaksid kiiresti ja mugavalt ülevaate üritusest ning oma osalemise planeerida.
 Kooli aastapäev on suurem sündmus, mis hõlmab mitmeid erinevaid tegevusi ning sihtrühmi. Veebileht peab arvestama, et seda kasutavad nii õpilased, vilistlased kui ka lapsevanemad, kellel kõigil võivad olla erinevad infovajadused.
 
