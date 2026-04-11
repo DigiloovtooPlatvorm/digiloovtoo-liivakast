@@ -2,7 +2,9 @@
 Digiloovtöö: kooli aastapäeva veebilehe loomine
 
 ## Projekti autorid
-Markus Mägi, Linda Oja ja Kaisa Muiste
+Markus Mägi (projektijuht/testija)
+Linda Oja (disainer/sisulooja)
+Kaisa Muiste (arendaja)
 
 ## Juhendaja
 Kati Lepp
