@@ -28,7 +28,6 @@ Valmis teooria, persoonad ja stsenaariumid.
 ### Märkused
 - Täidetakse töö käigus
 
-
 ## Sprint 2
 
 ### Periood
@@ -36,12 +35,12 @@ Valmis teooria, persoonad ja stsenaariumid.
 - Lõpp: jaanuar
 
 ### Eesmärk
-Luua Lo-Fi prototüüp ja planeerida veebilehe struktuur.
+Luua esmane prototüüp ja planeerida veebilehe struktuur.
 
 ### Peamised ülesanded
 - [ ] Nõuete kaardistamine
 - [ ] Veebilehe struktuuri planeerimine
-- [ ] Paberprototüübi (Lo-Fi) loomine
+- [ ] Paberprototüübi loomine
 - [ ] Tagasiside kogumine ja parandused
 
 ### Vastutajad
@@ -49,11 +48,10 @@ Luua Lo-Fi prototüüp ja planeerida veebilehe struktuur.
 - Kaisa (arendaja)
 
 ### Tulemus
-Valmis Lo-Fi prototüüp ja veebilehe struktuur.
+Valmis esmane prototüüp ja veebilehe struktuur.
 
 ### Märkused
-- Täidetakse töö käigus
-
+- Täidetakse töö käigus.
 
 ## Sprint 3
 
@@ -62,7 +60,7 @@ Valmis Lo-Fi prototüüp ja veebilehe struktuur.
 - Lõpp: märts
 
 ### Eesmärk
-Luua Hi-Fi prototüüp ja arendada veebileht.
+Luua valmis lahenduse prototüüp ja arendada veebileht.
 
 ### Peamised ülesanded
 - [ ] Veebilehe disaini loomine
@@ -76,11 +74,10 @@ Luua Hi-Fi prototüüp ja arendada veebileht.
 - Linda (disainer/sisulooja)
 
 ### Tulemus
-Valmis toimiv veebileht (Hi-Fi prototüüp).
+Valmis toimiva veebilehe prototüüp.
 
 ### Märkused
 - Täidetakse töö käigus
-
 
 ## Sprint 4
 
