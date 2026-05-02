@@ -41,7 +41,7 @@ Martin soovib kohtuda vanade klassikaaslastega ja veeta meeldiva päeva kooliga 
 
 ### Pilt
 
-<img width="500" height="750" alt="ChatGPT Image Apr 11, 2026, 05_51_38 PM" src="https://github.com/user-attachments/assets/3540feb6-3006-424b-bcc8-8fbf0d0c1a05" />
+<img width="500" height="650" alt="ChatGPT Image Apr 11, 2026, 05_51_38 PM" src="https://github.com/user-attachments/assets/3540feb6-3006-424b-bcc8-8fbf0d0c1a05" />
 
 ## Persoona 2
 
@@ -73,5 +73,5 @@ Liis soovib, et üritus oleks hästi korraldatud ja jätaks osalejatele positiiv
 *Mida rohkem on mul infot kooli aastapäeva kohta, seda paremini saan ma oma tööd teha!*
 
 ### Pilt
-<img width="500" height="750" alt="ChatGPT Image Apr 11, 2026, 05_52_24 PM" src="https://github.com/user-attachments/assets/0c9c6190-c9b1-439b-8c12-50ac0ff4486c" />
+<img width="500" height="650" alt="ChatGPT Image Apr 11, 2026, 05_52_24 PM" src="https://github.com/user-attachments/assets/0c9c6190-c9b1-439b-8c12-50ac0ff4486c" />
 
